@@ -1,16 +1,8 @@
-# cryptocurrency_ticker
+# Cryptocurrency Ticker
 
-A new Flutter project.
+This project will show you the current price of three crypto coins.
+This app was made using flutter and a crypto endpoint that supplies the prices for the coins.
 
-## Getting Started
+## How To
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Load the app and the current prices will get pulled.
